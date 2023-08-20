@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -23,30 +11,6 @@
         "lng": -3.7133789062500004
       },
       "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Friol",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-20T10:49:33.109Z",
-      "notes": "",
-      "position": {
-        "lat": "43.02071359427862",
-        "lng": "-7.756347656250001"
-      },
-      "id": 98443198
     },
     {
       "cityName": "Friol",
@@ -61,28 +25,40 @@
       "id": 98443199
     },
     {
-      "cityName": "Mosqueruela",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-20T10:52:43.273Z",
+      "cityName": "Sainte-Christie-d'Armagnac",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-20T13:37:33.769Z",
       "notes": "",
       "position": {
-        "lat": "40.34654412118006",
-        "lng": "-0.32958984375000006"
+        "lat": "43.78695837311561",
+        "lng": "0.02197265625"
       },
       "id": 98443200
     },
     {
-      "cityName": "Cullar",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-20T10:56:14.771Z",
+      "cityName": "Saint-Leger-Magnazeix",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-20T14:01:33.512Z",
       "notes": "",
       "position": {
-        "lat": "37.61423141542417",
-        "lng": "-2.5048828125000004"
+        "lat": "46.27103747280261",
+        "lng": "1.2744140625000002"
       },
       "id": 98443201
+    },
+    {
+      "cityName": "Santa Cruz de Paniagua",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-20T14:02:18.377Z",
+      "notes": "",
+      "position": {
+        "lat": "40.17887331434698",
+        "lng": "-6.35009765625"
+      },
+      "id": 98443202
     }
   ]
 }
